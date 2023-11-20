@@ -47,4 +47,3 @@ In this project, I aim to analyze tweets related to four diseases: AIDS/HIV, can
 
 ## How to Submit
 - The code must be submitted in a Jupyter notebook file.
-- Include a text file with the results and their discussion.
